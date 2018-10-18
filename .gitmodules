@@ -1,0 +1,3 @@
+[submodule "f303xe_asm_periph"]
+	path = f303xe_asm_periph
+	url = git@github.com:D3d1c4t3D/f303xe_asm_periph.git
